@@ -1,7 +1,7 @@
 #include "header.h"
 #include "omp.h"
 #include <float.h>
-
+//nevo
 void printBundle(Bundle bundle)
 {
 	printf("%s\n", bundle.seq1);
